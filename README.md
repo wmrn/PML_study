@@ -27,7 +27,7 @@ PMLで工芸大の野口先生が来てくださって、その時のワーク�
 <img src="https://github.com/wmrn/PML_study/blob/master/data/study_6.png"/>  
 
 ## インタラクションのスタディ
-<参考＞<http://r-dimension.xsrv.jp/classes_j/interaction_study/>
+<参考＞<http://r-dimension.xsrv.jp/classes_j/interaction_study/>  
 ※mouseが表示されないので少し何が起きてるかわかりずらいかも。  
 ### study1 (snot bubble)
 <img src="https://github.com/wmrn/PML_study/blob/master/data/study_1.gif"/>  
